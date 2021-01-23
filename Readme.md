@@ -1,6 +1,6 @@
 # Spotify control Playlist
 
-## Esse é um codigo para automatizar o meu uso com o spotify e aprender um pouco sobre o bash.
+## Esse é um codigo para automatizar o meu uso com o spotify e aprender um pouco sobre o Shell script.
 
 Comandos:
 
